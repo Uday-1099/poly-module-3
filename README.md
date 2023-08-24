@@ -1,3 +1,12 @@
+## ZK SNARK Designer
+
+For this project, we are creating a circuit using the circom programming language that implements the following logical gate:
+
+![uday.img](https://github.com/Uday-1099/poly-module-3/assets/138562538/cb05bf75-beb4-4dab-b4fc-777f4fceab85)
+
+Our goal is to prove you know the inputs A (0) & B (1) that yield a 0 output.
+
+
 ### Executing program
 
 To excute all code follow the below steps:
